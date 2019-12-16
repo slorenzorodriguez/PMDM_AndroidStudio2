@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Projecto4Retos</string>
+    <string name="title">los 4 retos</string>
+    <string name="reto1">reto 1: Pregunta</string>
+    <string name="reto2">reto 2: Operacion \nMatemática</string>
+    <string name="reto3">reto 3: Fotografía</string>
+    <string name="btncamera">¡HACER FOTO!</string>
+    <string name="txtreto3">Fotografía algo similar a esto:</string>
+    <string name="contentDesc1">HorseImage</string>
+    <string name="contentDesc2">FlowerImage</string>
+    <string name="btnhecho">HECHO</string>
+    <string name="reto4">reto 4: ??</string>
+    <string name="activity1">¡¡¡ Responde correctamente !!!</string>
+    <string name="pregunta">¿Dónde se encuentra este famoso puente?</string>
+    <string name="answer1">TIRANA, ALBANIA</string>
+    <string name="answer2">BERLIN, ALEMANIA</string>
+    <string name="answer3">LONDRES, INGLATERRA</string>
+    <string name="answer4">MADRID, ESPAÑA</string>
+    <string name="help">AYUDA</string>
+    <string name="btnimage">IMAGEN</string>
+    <string name="btnback">HECHO</string>
+    <string name="num1">6</string>
+    <string name="num2">5</string>
+    <string name="num3">10</string>
+    <string name="reto3pregunta">CALCULA ESTA SENCILLA OPERACIÓN</string>
+    <string name="productotext">x</string>
+    <string name="sumatext">+</string>
+    <string name="ContentDesc">todo1</string>
+    <string name="ContentDesc1">todo2</string>
+    <string name="ContentDesc2">todo3</string>
+    <string name="ContentDesc3">todo4</string>
+    <string name="ContentDesc4">todo5</string>
+    <string name="ContentDesc5">todo6</string>
+    <string name="ContentDesc6">todo7</string>
+    <string name ="eligalaopcion">Elige la opcion correcta</string>
+    <string name ="confirmar">confirmar</string>
+</resources>
